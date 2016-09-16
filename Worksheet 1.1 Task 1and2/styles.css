@@ -1,0 +1,31 @@
+body {
+	background-color: #F09;
+}
+h1 {
+	text-decoration: underline;
+	text-align: center;
+}
+p {
+	text-align: justified;
+	text-color: #00F;
+	font-size: 14px;
+}
+a:link {
+	color: #FF9;
+	font-style: italic;
+}
+a:hover {
+	color: #F60;
+}
+img {
+	border-right-style:double;
+	border-left-style:double;
+	border-top-style:double;
+	border-bottom-style:double;
+}
+.aligncenter {
+	display:block;
+	margin-left:auto;
+	margin-right: auto;
+}
+	
