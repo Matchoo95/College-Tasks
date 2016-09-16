@@ -1,0 +1,11 @@
+N:\My Documents\Visual Studio 2008\Projects\BTEC IT Grade Calculator\BTEC IT Grade Calculator\bin\Debug\BTEC IT Grade Calculator.exe
+N:\My Documents\Visual Studio 2008\Projects\BTEC IT Grade Calculator\BTEC IT Grade Calculator\bin\Debug\BTEC IT Grade Calculator.pdb
+N:\My Documents\Visual Studio 2008\Projects\BTEC IT Grade Calculator\BTEC IT Grade Calculator\bin\Debug\BTEC IT Grade Calculator.xml
+N:\My Documents\Visual Studio 2008\Projects\BTEC IT Grade Calculator\BTEC IT Grade Calculator\obj\Debug\ResolveAssemblyReference.cache
+N:\My Documents\Visual Studio 2008\Projects\BTEC IT Grade Calculator\BTEC IT Grade Calculator\obj\Debug\WindowsApplication1.FrmGrades.resources
+N:\My Documents\Visual Studio 2008\Projects\BTEC IT Grade Calculator\BTEC IT Grade Calculator\obj\Debug\WindowsApplication1.Resources.resources
+N:\My Documents\Visual Studio 2008\Projects\BTEC IT Grade Calculator\BTEC IT Grade Calculator\obj\Debug\BTEC IT Grade Calculator.vbproj.GenerateResource.Cache
+N:\My Documents\Visual Studio 2008\Projects\BTEC IT Grade Calculator\BTEC IT Grade Calculator\obj\Debug\BTEC IT Grade Calculator.exe
+N:\My Documents\Visual Studio 2008\Projects\BTEC IT Grade Calculator\BTEC IT Grade Calculator\obj\Debug\BTEC IT Grade Calculator.xml
+N:\My Documents\Visual Studio 2008\Projects\BTEC IT Grade Calculator\BTEC IT Grade Calculator\obj\Debug\BTEC IT Grade Calculator.pdb
+N:\My Documents\Visual Studio 2008\Projects\BTEC IT Grade Calculator\BTEC IT Grade Calculator\obj\Debug\WindowsApplication1.FrmHelp.resources

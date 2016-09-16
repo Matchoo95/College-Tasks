@@ -1,0 +1,5 @@
+N:\My Documents\Visual Studio 2008\Projects\Connecting to a database\Connecting to a database\obj\Debug\ResolveAssemblyReference.cache
+N:\My Documents\Visual Studio 2008\Projects\Connecting to a database\Connecting to a database\obj\Debug\WindowsApplication1.Form1.resources
+N:\My Documents\Visual Studio 2008\Projects\Connecting to a database\Connecting to a database\obj\Debug\WindowsApplication1.Resources.resources
+N:\My Documents\Visual Studio 2008\Projects\Connecting to a database\Connecting to a database\obj\Debug\Connecting to a database.vbproj.GenerateResource.Cache
+N:\My Documents\Visual Studio 2008\Projects\Connecting to a database\Connecting to a database\bin\Debug\Connecting to a database.exe.config
