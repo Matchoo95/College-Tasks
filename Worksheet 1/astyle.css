@@ -1,0 +1,35 @@
+h1 { font-family : georgia;
+     font-size : 24pt;
+     color : blue;
+      }
+
+h2 { font-size : 14pt;
+     font-family : "Times New Roman";     
+     color : teal;           
+      }
+
+ul { margin-left :  2cm;
+     list-style-type : circle;
+     line-height : 180%;
+     font-family : arial;
+     font-size :  11pt;
+     color :  navy;
+      }
+
+p  { margin-left :  1cm;
+     font-family : arial;
+     font-size :  11pt;
+     color :  black;
+      }
+
+img { border : 10px solid silver;
+      margin : 20px 0px 20px 0px;
+      }
+
+a   {line-height : 200%;
+     font-family : arial;
+     font-size :  12pt;
+      }
+
+.center {text-align : center;
+      }

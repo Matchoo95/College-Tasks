@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<head>
+<link rel="stylesheet" type="text/css" href="styyles.css">
+
+</head>
+
+<body>
+<p id="p">unknown</p>
+
+<script>
+	var name = prompt("Please enter your name", "");
+	
+	function setStyle(){
+document.getElementById("p").style.color ="blue";
+document.getElementById("p").style.fontSize = "20px";
+	}
+		setStyle()
+if (name != null) {
+	document.getElementById("p").innerHTML = name;
+    }
+    </script>
+    
+</body>
+</html>
