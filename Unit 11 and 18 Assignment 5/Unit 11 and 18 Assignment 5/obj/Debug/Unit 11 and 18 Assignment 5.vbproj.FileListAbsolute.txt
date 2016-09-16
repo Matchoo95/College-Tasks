@@ -1,0 +1,32 @@
+N:\My Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\bin\Debug\Unit 11 and 18 Assignment 5.exe
+N:\My Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\bin\Debug\Unit 11 and 18 Assignment 5.pdb
+N:\My Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\bin\Debug\Unit 11 and 18 Assignment 5.xml
+N:\My Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\ResolveAssemblyReference.cache
+N:\My Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\WindowsApplication1.EnterCustomerAccountDetails.resources
+N:\My Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\WindowsApplication1.enterCustTransDetails.resources
+N:\My Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\WindowsApplication1.enterStockDetails.resources
+N:\My Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\WindowsApplication1.enterSupplierDetails.resources
+N:\My Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\WindowsApplication1.enterTransactionDetails.resources
+N:\My Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\WindowsApplication1.Resources.resources
+N:\My Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\WindowsApplication1.Query_Entry.resources
+N:\My Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\Unit 11 and 18 Assignment 5.vbproj.GenerateResource.Cache
+N:\My Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\Unit 11 and 18 Assignment 5.exe
+N:\My Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\Unit 11 and 18 Assignment 5.xml
+N:\My Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\Unit 11 and 18 Assignment 5.pdb
+N:\My Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\WindowsApplication1.Form1.resources
+M:\College Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\Unit 11 and 18 Assignment 5.exe
+M:\College Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\Unit 11 and 18 Assignment 5.xml
+M:\College Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\Unit 11 and 18 Assignment 5.pdb
+M:\College Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\bin\Debug\Unit 11 and 18 Assignment 5.exe
+M:\College Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\bin\Debug\Unit 11 and 18 Assignment 5.pdb
+M:\College Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\bin\Debug\Unit 11 and 18 Assignment 5.xml
+M:\College Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\ResolveAssemblyReference.cache
+M:\College Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\WindowsApplication1.enterCustomerAccountDetails.resources
+M:\College Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\WindowsApplication1.enterCustTransDetails.resources
+M:\College Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\WindowsApplication1.enterStockDetails.resources
+M:\College Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\WindowsApplication1.enterSupplierDetails.resources
+M:\College Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\WindowsApplication1.enterTransactionDetails.resources
+M:\College Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\WindowsApplication1.Form1.resources
+M:\College Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\WindowsApplication1.Resources.resources
+M:\College Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\WindowsApplication1.Query_Entry.resources
+M:\College Documents\Visual Studio 2008\Projects\Unit 11 and 18 Assignment 5\Unit 11 and 18 Assignment 5\obj\Debug\Unit 11 and 18 Assignment 5.vbproj.GenerateResource.Cache
