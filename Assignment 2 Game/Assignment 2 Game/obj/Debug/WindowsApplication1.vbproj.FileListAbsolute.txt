@@ -1,0 +1,5 @@
+C:\Users\2012hawkinsm\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\2012hawkinsm\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.endGame.resources
+C:\Users\2012hawkinsm\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.form1.resources
+C:\Users\2012hawkinsm\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\2012hawkinsm\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

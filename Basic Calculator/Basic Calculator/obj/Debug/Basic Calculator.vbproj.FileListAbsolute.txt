@@ -1,0 +1,9 @@
+N:\My Documents\Visual Studio 2008\Projects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe
+N:\My Documents\Visual Studio 2008\Projects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.pdb
+N:\My Documents\Visual Studio 2008\Projects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.xml
+N:\My Documents\Visual Studio 2008\Projects\Basic Calculator\Basic Calculator\obj\Debug\ResolveAssemblyReference.cache
+N:\My Documents\Visual Studio 2008\Projects\Basic Calculator\Basic Calculator\obj\Debug\ConsoleApplication1.Resources.resources
+N:\My Documents\Visual Studio 2008\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.vbproj.GenerateResource.Cache
+N:\My Documents\Visual Studio 2008\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.exe
+N:\My Documents\Visual Studio 2008\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.xml
+N:\My Documents\Visual Studio 2008\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.pdb
