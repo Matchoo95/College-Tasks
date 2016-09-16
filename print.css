@@ -1,10 +1,10 @@
-<!------->Normal CSS<-------->
+<!------->Print CSS<-------->
 * {
 	margin:0px;
 	padding:0px;
 }
 body {
-	background-color:#FFFFFF;
+	
 	margin:0px;
 	padding:0px;
 }
@@ -27,14 +27,13 @@ body {
 	font-size:0.75em;
 	font-weight: bold;
 	padding-op: 5px;
-	background-color: #C6FFB3
 	height:400px;
 	display:inline-block;
 }
-#navigation ul{margin:0px; background: #005826;}
+#navigation ul{margin:0px;}
 #navigation li{list-style: none; border-btoom: #C6FFB3 solid; border-top: #C6FFB3 solid; border-width: 1px;} 
 #navigation a{
-	color:#ffffff;
+	;
 	cursor:pointer;
 	padding-left: 4px;
 	height:25px;
@@ -43,13 +42,12 @@ body {
 	width:100%
 }
 #navigation a:hover{text-decoration:none;}
-#navigation li:hover{background: #f90;}
+#navigation li:hover;
 #content {
 	vertical-align:top;
 	width:480px;
 	height:400px;
 	display:inline-block;
-	background-color:#ffffff;
 	font-size: 0px;
 }
 .box {	
@@ -62,8 +60,7 @@ body {
 	vertical-align:top;
 	display:inline-block;
 	width:150px;
-	height:400px;
-	background-color:#005826;
+	height:400px;	
 }
 #emptybox{
 	vertical-align:top;
@@ -77,6 +74,3 @@ body {
 	width:800px;
 	height:50px;
 }
-<!------->Tablet CSS<-------->
-@media screen and (min-width: 480px) and (max-width:800px) {
-	#navigation a:hover
