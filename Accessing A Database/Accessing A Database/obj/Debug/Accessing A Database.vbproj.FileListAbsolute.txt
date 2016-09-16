@@ -1,0 +1,10 @@
+N:\My Documents\Visual Studio 2008\Projects\Accessing A Database\Accessing A Database\bin\Debug\Accessing A Database.exe
+N:\My Documents\Visual Studio 2008\Projects\Accessing A Database\Accessing A Database\bin\Debug\Accessing A Database.pdb
+N:\My Documents\Visual Studio 2008\Projects\Accessing A Database\Accessing A Database\bin\Debug\Accessing A Database.xml
+N:\My Documents\Visual Studio 2008\Projects\Accessing A Database\Accessing A Database\obj\Debug\ResolveAssemblyReference.cache
+N:\My Documents\Visual Studio 2008\Projects\Accessing A Database\Accessing A Database\obj\Debug\WindowsApplication1.Background.resources
+N:\My Documents\Visual Studio 2008\Projects\Accessing A Database\Accessing A Database\obj\Debug\WindowsApplication1.Resources.resources
+N:\My Documents\Visual Studio 2008\Projects\Accessing A Database\Accessing A Database\obj\Debug\Accessing A Database.vbproj.GenerateResource.Cache
+N:\My Documents\Visual Studio 2008\Projects\Accessing A Database\Accessing A Database\obj\Debug\Accessing A Database.exe
+N:\My Documents\Visual Studio 2008\Projects\Accessing A Database\Accessing A Database\obj\Debug\Accessing A Database.xml
+N:\My Documents\Visual Studio 2008\Projects\Accessing A Database\Accessing A Database\obj\Debug\Accessing A Database.pdb

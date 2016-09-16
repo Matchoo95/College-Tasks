@@ -1,0 +1,9 @@
+N:\My Documents\Visual Studio 2008\Projects\Array Swap\Array Swap\obj\Debug\ResolveAssemblyReference.cache
+N:\My Documents\Visual Studio 2008\Projects\Array Swap\Array Swap\obj\Debug\ConsoleApplication1.Resources.resources
+N:\My Documents\Visual Studio 2008\Projects\Array Swap\Array Swap\obj\Debug\Array Swap.vbproj.GenerateResource.Cache
+N:\My Documents\Visual Studio 2008\Projects\Array Swap\Array Swap\bin\Debug\Array Swap.exe
+N:\My Documents\Visual Studio 2008\Projects\Array Swap\Array Swap\bin\Debug\Array Swap.pdb
+N:\My Documents\Visual Studio 2008\Projects\Array Swap\Array Swap\bin\Debug\Array Swap.xml
+N:\My Documents\Visual Studio 2008\Projects\Array Swap\Array Swap\obj\Debug\Array Swap.exe
+N:\My Documents\Visual Studio 2008\Projects\Array Swap\Array Swap\obj\Debug\Array Swap.xml
+N:\My Documents\Visual Studio 2008\Projects\Array Swap\Array Swap\obj\Debug\Array Swap.pdb
