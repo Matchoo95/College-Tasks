@@ -1,0 +1,9 @@
+N:\My Documents\Visual Studio 2008\Projects\Mock Exam\Mock Exam\bin\Debug\Mock Exam.exe
+N:\My Documents\Visual Studio 2008\Projects\Mock Exam\Mock Exam\bin\Debug\Mock Exam.pdb
+N:\My Documents\Visual Studio 2008\Projects\Mock Exam\Mock Exam\bin\Debug\Mock Exam.xml
+N:\My Documents\Visual Studio 2008\Projects\Mock Exam\Mock Exam\obj\Debug\ResolveAssemblyReference.cache
+N:\My Documents\Visual Studio 2008\Projects\Mock Exam\Mock Exam\obj\Debug\ConsoleApplication1.Resources.resources
+N:\My Documents\Visual Studio 2008\Projects\Mock Exam\Mock Exam\obj\Debug\Mock Exam.vbproj.GenerateResource.Cache
+N:\My Documents\Visual Studio 2008\Projects\Mock Exam\Mock Exam\obj\Debug\Mock Exam.exe
+N:\My Documents\Visual Studio 2008\Projects\Mock Exam\Mock Exam\obj\Debug\Mock Exam.xml
+N:\My Documents\Visual Studio 2008\Projects\Mock Exam\Mock Exam\obj\Debug\Mock Exam.pdb
