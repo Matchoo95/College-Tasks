@@ -1,0 +1,9 @@
+N:\My Documents\Visual Studio 2008\Projects\Error Checking\Error Checking\bin\Debug\Error Checking.exe
+N:\My Documents\Visual Studio 2008\Projects\Error Checking\Error Checking\bin\Debug\Error Checking.pdb
+N:\My Documents\Visual Studio 2008\Projects\Error Checking\Error Checking\bin\Debug\Error Checking.xml
+N:\My Documents\Visual Studio 2008\Projects\Error Checking\Error Checking\obj\Debug\ResolveAssemblyReference.cache
+N:\My Documents\Visual Studio 2008\Projects\Error Checking\Error Checking\obj\Debug\ConsoleApplication1.Resources.resources
+N:\My Documents\Visual Studio 2008\Projects\Error Checking\Error Checking\obj\Debug\Error Checking.vbproj.GenerateResource.Cache
+N:\My Documents\Visual Studio 2008\Projects\Error Checking\Error Checking\obj\Debug\Error Checking.exe
+N:\My Documents\Visual Studio 2008\Projects\Error Checking\Error Checking\obj\Debug\Error Checking.xml
+N:\My Documents\Visual Studio 2008\Projects\Error Checking\Error Checking\obj\Debug\Error Checking.pdb
