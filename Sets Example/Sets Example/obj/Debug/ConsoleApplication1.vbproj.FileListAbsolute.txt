@@ -1,0 +1,9 @@
+C:\Users\2012hawkinsm\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\2012hawkinsm\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\2012hawkinsm\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\2012hawkinsm\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\2012hawkinsm\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\2012hawkinsm\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\2012hawkinsm\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\2012hawkinsm\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+C:\Users\2012hawkinsm\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

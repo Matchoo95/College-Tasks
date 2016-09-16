@@ -1,0 +1,10 @@
+N:\My Documents\Visual Studio 2008\Projects\Traffic Lights\Traffic Lights\bin\Debug\Traffic Lights.exe
+N:\My Documents\Visual Studio 2008\Projects\Traffic Lights\Traffic Lights\bin\Debug\Traffic Lights.pdb
+N:\My Documents\Visual Studio 2008\Projects\Traffic Lights\Traffic Lights\bin\Debug\Traffic Lights.xml
+N:\My Documents\Visual Studio 2008\Projects\Traffic Lights\Traffic Lights\obj\Debug\ResolveAssemblyReference.cache
+N:\My Documents\Visual Studio 2008\Projects\Traffic Lights\Traffic Lights\obj\Debug\WindowsApplication1.Form1.resources
+N:\My Documents\Visual Studio 2008\Projects\Traffic Lights\Traffic Lights\obj\Debug\WindowsApplication1.Resources.resources
+N:\My Documents\Visual Studio 2008\Projects\Traffic Lights\Traffic Lights\obj\Debug\Traffic Lights.vbproj.GenerateResource.Cache
+N:\My Documents\Visual Studio 2008\Projects\Traffic Lights\Traffic Lights\obj\Debug\Traffic Lights.exe
+N:\My Documents\Visual Studio 2008\Projects\Traffic Lights\Traffic Lights\obj\Debug\Traffic Lights.xml
+N:\My Documents\Visual Studio 2008\Projects\Traffic Lights\Traffic Lights\obj\Debug\Traffic Lights.pdb
